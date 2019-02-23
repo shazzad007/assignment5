@@ -1,0 +1,344 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+img{
+	display: block;
+}
+header{
+	background-color: #f6f9f9;
+
+}
+
+.logo{
+	padding: 26px 0px;
+
+	
+}
+
+.hero{
+	background: url(../img/02.png) no-repeat;
+	background-size: cover;
+}
+
+.banner{
+	width: 550px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.banner h2{
+	color: #fff;
+	padding-top: 210px;
+	font-size: 80px;
+	border-bottom: 3px solid #15a4fa;
+
+
+}
+
+.banner p{
+	padding-top: 39px; 
+	font-size: 20px;
+	padding-bottom: 65px;
+
+}
+
+.btn{
+	background: transparent;
+	padding: 10px 26px;
+	font-size: 15px;
+	color: #fff;
+	border:1px solid #15a4fa;
+
+}.banner h6{
+	padding-top: 175px;
+	padding-bottom: 95px;
+	
+}
+
+.fa.fa-chevron-down{
+	color: #fff;
+	font-size: 20px;
+
+}
+
+.para{
+	background-color: #f6f9f9;
+
+}
+
+.one{
+
+	text-align: center;
+}
+
+.one h3{
+	padding-top: 60px;
+	font-size: 35px;
+}
+
+.one p{
+	padding-top: 30px;
+	padding-bottom: 80px;
+}
+
+
+.feature{
+	padding-top: 60px;
+}
+
+.feature-one{
+	width: 33.3%;
+	float: left;
+    text-align: center;
+    
+
+}
+
+.fa.fa-mobile{
+	background-color: #48baff;
+	color: #fff;
+	padding: 4px 21px;
+	font-size: 60px;
+	
+}
+
+.feature-one h2{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+
+.feature-one p{
+	color: #cfcfcf;
+	font-size: 15px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+
+.feature-two{
+	width: 33.3%;
+	float: left;
+    text-align: center;
+}
+
+.fa.fa-paper-plane{
+	background-color: #48baff;
+	color: #fff;
+	padding: 14px 14px;
+	font-size: 44px;
+}
+
+.feature-two h2{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+
+.feature-two p{
+	color: #cfcfcf;
+	font-size: 15px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+.feature-three{
+	width: 33.3%;
+	float: left;
+    text-align: center;
+
+}
+
+.fa.fa-bullhorn{
+	background-color: #48baff;
+	color: #fff;
+	padding: 14px 13px;
+	font-size: 48px;
+}
+
+.feature-three h2{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+
+.feature-three p{
+	color: #cfcfcf;
+	font-size: 15px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+.portfolio{
+	background-color: #f6f9f9;
+}
+
+.portfolio h2{
+	padding-top: 50px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: #2d3950;
+	font-size: 35px;
+
+}
+
+.portfolio p{
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 75px;
+
+}
+
+.portfolio-one{
+	width: 33.3%;
+	float: left;
+
+}
+
+.portfolio-one img{
+	display: block;
+	padding: 10px 30px;
+
+
+}
+
+.portfolio-two{
+	width: 33.3%;
+	float: left;
+
+}
+
+.portfolio-two img{
+	display: block;
+	padding: 10px 30px;
+	text-align: left;
+	margin-bottom: 60px;
+}
+
+
+.login{
+	background: url(../img/09.png) no-repeat;
+	height: 
+}
+
+.login h2{
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	padding-top: 40px;
+	padding-bottom: 10px;
+	
+}
+
+.login p{
+	color: grey;
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 50px;
+}
+
+.form-control{
+	width: 37%;
+	height: 36px;
+	background: transparent;
+	color: #fff;
+	border:1px solid #999999;
+	margin: 10px auto;
+	padding: 0px 5px;
+	border-radius: 2px;
+	display: block;
+}
+
+.form-msg{
+	width: 37%;
+	height: 110px;
+	color: #fff;
+	background: transparent;
+	border:1px solid #999999;
+	margin: 10px auto;
+	padding: 0px 5px;
+	border-radius: 2px;
+	display: block;
+}
+
+
+.button{
+	display: block;
+	margin:15px 0px 50px 690px;
+	background: transparent;
+	color: #fff;
+	padding: 9px 33px;
+	border:1px solid blue;
+	
+}
+
+footer{
+	height: 70px;
+}
+	
+
+.bg {
+	width: 70%;
+	float: left;
+	padding: 15px;
+}
+
+.bg p{
+	font-size: 15px;
+}
+
+.icon{
+	width: 25%;
+	float: right;
+	
+}
+
+.icon ul{
+	list-style: none;
+	padding: 15px;
+}
+
+.icon ul li{
+	display: inline-block;
+
+}
+
+.fa.fa-facebook{
+	background: #15a4fa;
+    color: #fff;
+    padding: 4px 8px;
+
+}
+.fa.fa-twitter{
+	background: #15a4fa;
+    color: #fff;
+    padding: 4px 8px;
+
+}
+
+.fa.fa-google-plus{
+	background: #15a4fa;
+    color: #fff;
+    padding: 4px 8px;
+
+}
+
+.fa.fa-linkedin{
+	background: #15a4fa;
+    color: #fff;
+    padding: 4px 8px;
+
+}
+
+	
